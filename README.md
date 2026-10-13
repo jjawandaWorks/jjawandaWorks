@@ -8,22 +8,6 @@ A Software developer passionate about building scalable, efficient, and user-fri
 
 📌 **Check out my **pinned projects** below to see what I’ve been working on!**
 
-
-
-
-
-
-
-
-
-
-##
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjawandaWorks&theme=high-contrast&hide_border=false" style="border-radius: 15px;">
-</div>
-
-
 ##
 
 <div align="center">
